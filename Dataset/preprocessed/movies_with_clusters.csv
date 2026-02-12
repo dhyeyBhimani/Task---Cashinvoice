@@ -1,0 +1,16 @@
+movie_id,avg_watch_time,completion_rate,ratings_count,avg_rating,hit,engagement_score,log_ratings,cluster,cluster_label
+1,45,0.6,1200,3.8,0,27.0,7.0909098220799835,1,Low Engagement – Low Popularity
+2,110,0.9,8500,4.6,1,99.0,9.04793908261736,0,Blockbuster Hits
+3,60,0.65,2000,4.0,0,39.0,7.601402334583733,1,Low Engagement – Low Popularity
+4,130,0.95,12000,4.8,1,123.5,9.392745258631441,0,Blockbuster Hits
+5,40,0.55,900,3.6,0,22.0,6.803505257608338,1,Low Engagement – Low Popularity
+6,120,0.92,10000,4.7,1,110.4,9.210440366976517,0,Blockbuster Hits
+7,95,0.85,6000,4.4,1,80.75,8.699681400989514,0,Blockbuster Hits
+8,50,0.58,1100,3.7,0,28.999999999999996,7.00397413672268,1,Low Engagement – Low Popularity
+9,140,0.97,15000,4.9,1,135.79999999999998,9.61587214452889,0,Blockbuster Hits
+10,70,0.7,3000,4.1,0,49.0,8.006700845440367,1,Low Engagement – Low Popularity
+11,115,0.91,9000,4.6,1,104.65,9.105090961257085,0,Blockbuster Hits
+12,48,0.57,1000,3.6,0,27.36,6.90875477931522,1,Low Engagement – Low Popularity
+13,125,0.93,11000,4.8,1,116.25,9.305741456739435,0,Blockbuster Hits
+14,80,0.75,4000,4.2,0,60.0,8.294299608857235,1,Low Engagement – Low Popularity
+15,150,0.98,18000,5.0,1,147.0,9.798182590890704,0,Blockbuster Hits
